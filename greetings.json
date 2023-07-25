@@ -1,1 +1,209 @@
-[{"lang": "English", "greeting": "Hello"}, {"lang": "Mandarin Chinese", "greeting": "Ni Hao"}, {"lang": "Spanish", "greeting": "Hola"}, {"lang": "Hindi", "greeting": "Namaste"}, {"lang": "French", "greeting": "Bonjour"}, {"lang": "Standard Arabic", "greeting": "Marhaban"}, {"lang": "Bengali", "greeting": "Hyalo"}, {"lang": "Russian", "greeting": "Privet"}, {"lang": "Indonesian", "greeting": "Halo"}, {"lang": "Urdu", "greeting": "Hello"}, {"lang": "Standard German", "greeting": "Hallo"}, {"lang": "Japanese", "greeting": "Konnichiwa"}, {"lang": "Swahili", "greeting": "Jambo"}, {"lang": "Marathi", "greeting": "Namaste"}, {"lang": "Telugu", "greeting": "Halo"}, {"lang": "Korean", "greeting": "Annyeonghaseyo"}, {"lang": "Italian", "greeting": "Ciao"}, {"lang": "Turkish", "greeting": "Merhaba"}, {"lang": "Thai", "greeting": "Sawatdee"}, {"lang": "Persian", "greeting": "Salam"}, {"lang": "Polish", "greeting": "Czesc"}, {"lang": "Ukrainian", "greeting": "Pryvit"}, {"lang": "Kannada", "greeting": "Halo"}, {"lang": "Malayalam", "greeting": "Halo"}, {"lang": "Sundanese", "greeting": "Halo"}, {"lang": "Hausa", "greeting": "Sannu"}, {"lang": "Oriya", "greeting": "Hello"}, {"lang": "Burmese", "greeting": "Mingalabar"}, {"lang": "Uzbek", "greeting": "Salom"}, {"lang": "Sindhi", "greeting": "Hello"}, {"lang": "Romanian", "greeting": "Salut"}, {"lang": "Oromo", "greeting": "Akkam"}, {"lang": "Azerbaijani", "greeting": "Salam"}, {"lang": "Awadhi", "greeting": "Hello"}, {"lang": "Gan Chinese", "greeting": "Ni Hao"}, {"lang": "Tagalog", "greeting": "Kamusta"}, {"lang": "Maithili", "greeting": "Hello"}, {"lang": "Cebuano", "greeting": "Hello"}, {"lang": "Dutch", "greeting": "Hallo"}, {"lang": "Kurdish", "greeting": "Silav"}, {"lang": "Malagasy", "greeting": "Manao Ahoana"}, {"lang": "Serbo-Croatian", "greeting": "Zdravo"}, {"lang": "Saraiki", "greeting": "Hello"}, {"lang": "Nepali", "greeting": "Namaste"}, {"lang": "Sinhala", "greeting": "Hello"}, {"lang": "Chittagonian", "greeting": "Hyalo"}, {"lang": "Zhuang", "greeting": "Cengzsi"}, {"lang": "Khmer", "greeting": "Suostei"}, {"lang": "Madurese", "greeting": "Hello"}, {"lang": "Somali", "greeting": "Hello"}, {"lang": "Marwari", "greeting": "Namaste"}, {"lang": "Magahi", "greeting": "Hello"}, {"lang": "Haryanvi", "greeting": "Hello"}, {"lang": "Hungarian", "greeting": "Szia"}, {"lang": "Chewa", "greeting": "Moni"}, {"lang": "Greek", "greeting": "Geia Sas"}, {"lang": "Czech", "greeting": "Ahoj"}, {"lang": "Swedish", "greeting": "Hej"}, {"lang": "Zulu", "greeting": "Sawubona"}, {"lang": "Quechua", "greeting": "Allillanchu"}, {"lang": "Kinyarwanda", "greeting": "Muraho"}, {"lang": "Haitian Creole", "greeting": "Bonjou"}, {"lang": "Uyghur", "greeting": "Yakhshimusiz"}, {"lang": "Mossi", "greeting": "Yaa Som Wend Kuuni"}, {"lang": "Hiligaynon", "greeting": "Hello"}, {"lang": "Balochi", "greeting": "Salam"}, {"lang": "Belarusian", "greeting": "Pryvitannie"}, {"lang": "Konkani", "greeting": "Namaskar"}, {"lang": "Shona", "greeting": "Hama"}, {"lang": "Xhosa", "greeting": "Molweni"}, {"lang": "Akan", "greeting": "Agyei"}, {"lang": "Armenian", "greeting": "Barev"}, {"lang": "Latvian", "greeting": "Sveiki"}, {"lang": "Javanese", "greeting": "Halo"}, {"lang": "Macedonian", "greeting": "Zdravo"}, {"lang": "Sunda", "greeting": "Halo"}, {"lang": "Fula", "greeting": "Jam Tan"}, {"lang": "Estonian", "greeting": "Tere"}, {"lang": "Swazi", "greeting": "Sawubona"}, {"lang": "Kongo", "greeting": "Mbote"}, {"lang": "Maltese", "greeting": "Hello"}, {"lang": "Tswana", "greeting": "Dumela"}, {"lang": "Tumbuka", "greeting": "Moni"}]
+[{
+		"lang": "English",
+		"greeting": "Hello"
+	},
+	{
+		"lang": "Mandarin Chinese",
+		"greeting": "你好"
+	},
+	{
+		"lang": "Spanish",
+		"greeting": "Hola"
+	},
+	{
+		"lang": "Hindi",
+		"greeting": "नमस्ते"
+	},
+	{
+		"lang": "French",
+		"greeting": "Bonjour"
+	},
+	{
+		"lang": "Standard Arabic",
+		"greeting": "مرحبا"
+	},
+	{
+		"lang": "Bengali",
+		"greeting": "হ্যালো"
+	},
+	{
+		"lang": "Russian",
+		"greeting": "Привет"
+	},
+	{
+		"lang": "Portuguese",
+		"greeting": "Olá"
+	},
+	{
+		"lang": "Indonesian",
+		"greeting": "Halo"
+	},
+	{
+		"lang": "Urdu",
+		"greeting": "ہیلو"
+	},
+	{
+		"lang": "German",
+		"greeting": "Hallo"
+	},
+	{
+		"lang": "Japanese",
+		"greeting": "こんにちは"
+	},
+	{
+		"lang": "Swahili",
+		"greeting": "Jambo"
+	},
+	{
+		"lang": "Marathi",
+		"greeting": "नमस्कार"
+	},
+	{
+		"lang": "Telugu",
+		"greeting": "హలో"
+	},
+	{
+		"lang": "Turkish",
+		"greeting": "Merhaba"
+	},
+	{
+		"lang": "Korean",
+		"greeting": "안녕하세요"
+	},
+	{
+		"lang": "Italian",
+		"greeting": "Ciao"
+	},
+	{
+		"lang": "Thai",
+		"greeting": "สวัสดี"
+	},
+	{
+		"lang": "Persian",
+		"greeting": "سلام"
+	},
+	{
+		"lang": "Polish",
+		"greeting": "Cześć"
+	},
+	{
+		"lang": "Ukrainian",
+		"greeting": "Привіт"
+	},
+	{
+		"lang": "Romanian",
+		"greeting": "Salut"
+	},
+	{
+		"lang": "Dutch",
+		"greeting": "Hallo"
+	},
+	{
+		"lang": "Greek",
+		"greeting": "Γεια σας"
+	},
+	{
+		"lang": "Czech",
+		"greeting": "Ahoj"
+	},
+	{
+		"lang": "Swedish",
+		"greeting": "Hej"
+	},
+	{
+		"lang": "Vietnamese",
+		"greeting": "Xin chào"
+	},
+	{
+		"lang": "Hungarian",
+		"greeting": "Szia"
+	},
+	{
+		"lang": "Finnish",
+		"greeting": "Hei"
+	},
+	{
+		"lang": "Danish",
+		"greeting": "Hej"
+	},
+	{
+		"lang": "Norwegian",
+		"greeting": "Hei"
+	},
+	{
+		"lang": "Bulgarian",
+		"greeting": "Здравейте"
+	},
+	{
+		"lang": "Croatian",
+		"greeting": "Bok"
+	},
+	{
+		"lang": "Serbian",
+		"greeting": "Здраво"
+	},
+	{
+		"lang": "Slovak",
+		"greeting": "Ahoj"
+	},
+	{
+		"lang": "Lithuanian",
+		"greeting": "Sveiki"
+	},
+	{
+		"lang": "Slovenian",
+		"greeting": "Živjo"
+	},
+	{
+		"lang": "Latvian",
+		"greeting": "Sveiki"
+	},
+	{
+		"lang": "Estonian",
+		"greeting": "Tere"
+	},
+	{
+		"lang": "Maltese",
+		"greeting": "Hello"
+	},
+	{
+		"lang": "Icelandic",
+		"greeting": "Halló"
+	},
+	{
+		"lang": "Albanian",
+		"greeting": "Përshëndetje"
+	},
+	{
+		"lang": "Basque",
+		"greeting": "Kaixo"
+	},
+	{
+		"lang": "Catalan",
+		"greeting": "Hola"
+	},
+	{
+		"lang": "Galician",
+		"greeting": "Ola"
+	},
+	{
+		"lang": "Macedonian",
+		"greeting": "Здраво"
+	},
+	{
+		"lang": "Welsh",
+		"greeting": "Helo"
+	},
+	{
+		"lang": "Irish",
+		"greeting": "Dia dhuit"
+	},
+	{
+		"lang": "Scottish Gaelic",
+		"greeting": "Halo"
+	},
+	{
+		"lang": "Breton",
+		"greeting": "Demat"
+	}
+]
